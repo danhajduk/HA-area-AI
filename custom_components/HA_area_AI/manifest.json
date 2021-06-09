@@ -1,12 +1,13 @@
 {
   "domain": "ha_area_ai",
   "name": "AI for Home Assistant areas",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "documentation":  "",
   "dependencies": [],
   "after_dependencies": [],
   "codeowners": [""],
   "config_flow": true,
   "requirements": [],
-  "issue_tracker": ""
+  "issue_tracker": "",
+  "config_flow": true
 }
